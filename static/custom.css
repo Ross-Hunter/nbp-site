@@ -1,0 +1,81 @@
+/* base blue 42a4f4 */
+/* base orange FFC000 */
+/* base red FF7337 */
+/* base purple 42A3F4 */
+/* hover 077FE2 */
+/* light 98CDF9 */
+
+body {
+  padding-top: 100px;
+  background-color: #42a4f4;
+}
+
+a {
+  color: #42A3F4;
+}
+
+a:hover {
+  color: #077FE2;
+}
+
+.navbar-brand {
+  font-size: 2em;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #FF7337;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #077FE2;
+}
+
+.navbar-nav li{
+  margin: auto;
+}
+
+.middle_container, .main_container {
+  border-radius: 0.3rem;
+}
+
+.main_container {
+  background-color: #98CDF9;
+  margin-bottom: 1rem;
+}
+
+.grid_episode_title {
+  color: #077FE2;
+}
+
+.grid_episode_title:hover {
+  color: #42a4f4;
+}
+
+.jumbotron {
+  margin-top: 1rem;
+  padding: 2rem;
+  margin-bottom: 0;
+}
+
+.episode-list {
+  padding: 1rem;
+}
+
+.jumbotron .authors {
+  margin-top: 2rem;
+}
+
+.site-description h2 {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 1.5rem;
+}
+
+.subscribe_buttons>a {
+  color: #FFC000;
+}
+
+.subscribe_buttons>a:hover {
+  color: #FF7337;
+}

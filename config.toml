@@ -6,50 +6,35 @@ googleAnalytics = "UA-4184025-14"
 disqusShortname = "the-new-best-practices"
 
 [permalinks]
-  # page = "/:filename/"
   about = "/:filename/"
   episode = "/:filename/"
 
-
-# The theme supports menus with up to one submenu per menu item
-# The menu name must be "Main"
-# The menus are sorted based upon their identifier
 [[Menu.Main]]
-    name = "About"
-    identifier = "about"
-    url = "about"
-
-[[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "contact"
-
-[[Menu.Main]]
-    name = "Guests"
-    identifier = "guests"
-    url = "guest"
+  name = "About"
+  identifier = "about"
+  url = "about"
 
 [params]
-site_theme = "blue"
-site_layout = "row"
-enable_jumbo = "true"
-# truncate = "100"
-# about_logo = "/img/hugocast.png"
-copyright_notice = "Copyright 2017 [Ross Hunter](https://ross-hunter.com)"
-itunes_subscribe = ""
-android_subscribe = ""
-google_play_subscribe = ""
-sticher_subscribe = ""
-soundcloud_subscribe = ""
-pocketcasts_subscribe = ""
-mailchimp_subscribe = ""
-#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "The New Best Practices is great"
-media_prefix = ""
+  site_theme = "blue"
+  site_layout = "row"
+  enable_jumbo = "true"
+  custom_css = ["custom.css"]
+  # truncate = "100"
+  # about_logo = "/img/hugocast.png"
+  copyright_notice = "Copyright 2017 [Ross Hunter](https://ross-hunter.com)"
+  itunes_subscribe = ""
+  android_subscribe = ""
+  google_play_subscribe = ""
+  sticher_subscribe = ""
+  soundcloud_subscribe = ""
+  mailchimp_subscribe = ""
+  #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+  description = "The New Best Practices is a podcast about creating software."
+  media_prefix = ""
   [params.feed]
     feed_copyright = "Copyright 2017 Ross Hunter"
     itunes_subtitle = "Really Good Podcast"
-    itunes_author = "Ross Hunter" #no markdown or HTML
+    itunes_author = "Ross Hunter"
     itunes_summary = "Really Good Podcast"
     itunes_owner_name = "Ross Hunter"
     itunes_owner_email = "ross-hunter@ross-hunter.com"
@@ -65,8 +50,9 @@ media_prefix = ""
 
   [params.authors]
     [params.authors.Ross]
+      identifier = "1"
       name  = "Ross Hunter"
-      thumbnail = "/images/ross.png"
+      thumbnail = "/images/ross.jpeg"
       bio = "Ross Hunter is a pretty cool web dude."
       [params.authors.Ross.social]
         github = "Ross-Hunter"
@@ -75,15 +61,17 @@ media_prefix = ""
         linkedin = "rosshunter"
         homepage = "https://ross-hunter.com"
     [params.authors.Jason]
+      identifier = "2"
       name = "Jason Sich"
       thumbnail = "/images/jason.jpeg"
-      bio = ""
-        [params.authors.Jason.social]
-          twitter = "jasich"
+      bio = "Jason Sich is best known as author of the Sich New Technical Dictionary."
+      [params.authors.Jason.social]
+        twitter = "jasich"
     [params.authors.Jace]
+      identifier = "3"
       name = "Jace Browning"
       thumbnail = "/images/jace.jpg"
-      bio = ""
+      bio = "Jace Browning likes to complain about software."
       [params.authors.Jace.social]
         twitter = "jacebrowning"
 
