@@ -2,58 +2,63 @@
 
 <div class="jumbotron">
   <div class="row site-description">
-    <h2>{{ .Site.Params.description | markdownify }}</h2>
+    <h2>The New Best Practices is a podcast about creating software.</h2>
   </div>
   <div class="row">
-    <div class="col">
+    <div class="col-md-6">
     {{ if (isset .Site.Params "itunes_subscribe") }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ .Site.Params.itunes_subscribe}}"><i class="fa fa-apple"></i>&nbsp;iTunes</a>
       </div>
     {{ end }}
     {{ if (isset .Site.Params "android_subscribe") }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default subscribe_buttons" href="{{ .Site.Params.android_subscribe }}"><i class="fa fa-android"></i>&nbsp;Android</a>
       </div>
     {{ end }}
     {{ if (isset .Site.Params "google_play_subscribe") }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ .Site.Params.google_play_subscribe }}"><i class="fa fa-music"></i>&nbsp;Google Play Music</a>
       </div>
     {{ end }}
     {{ with .Site.Params.sticher_subscribe }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ . }}"><i class="fa fa-podcast"></i>&nbsp;Stitcher</a>
       </div>
     {{ end }}
     {{ if (isset .Site.Params "soundcloud_subscribe") }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ .Site.Params.soundcloud_subscribe }}"><i class="fa fa-soundcloud"></i>&nbsp;Soundcloud</a>
       </div>
     {{ end }}
     {{ if (isset .Site.Params "pocketcasts_subscribe") }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ .Site.Params.pocketcasts_subscribe }}"><i class="fa fa-podcast"></i>&nbsp;PocketCasts</a>
       </div>
     {{ end }}
     {{ if (isset .Site.Params "rss_subscribe" )}}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ .Site.Params.rss_subscribe }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
       </div>
     {{ else }}
-      <div class = "col subscribe_buttons col-md-auto">
+      <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{"episode/index.xml" | absURL }}"><i class="fa fa-rss"></i>&nbsp;RSS</a>
       </div>
     {{ end }}
     </div>
-    <div class="col">
+    <div class="col-md-6">
       <div class="row authors">
         {{ range $p:= sort $.Site.Params.authors "identifier" }}
-        <div class="col-lg-4">
+        <div class="col-md-4">
             <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
             <p class="text-center text-capitalize">{{ $p.name }}</p>
         </div>
         {{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col site-description">
+        <p>{{ .Site.Params.description | markdownify }}</p>
       </div>
     </div>
   </div>

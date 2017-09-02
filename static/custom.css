@@ -72,6 +72,18 @@ a:hover {
   padding-bottom: 1.5rem;
 }
 
+.site-description p {
+  margin: 2rem 2rem 0 2rem;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+  .subscribe_buttons {
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
 .subscribe_buttons>a {
   color: #FFC000;
 }

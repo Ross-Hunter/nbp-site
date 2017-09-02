@@ -29,7 +29,7 @@ disqusShortname = "the-new-best-practices"
   soundcloud_subscribe = ""
   mailchimp_subscribe = ""
   #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-  description = "The New Best Practices is a podcast about creating software."
+  description = "The New Best Practices is a podcast about creating software. Our publishing model is a little different, we publish our podcast in \"seasons\" that we release whenever we feel it's ready. Season 1 is available now."
   media_prefix = ""
   [params.feed]
     feed_copyright = "Copyright 2017 Ross Hunter"
