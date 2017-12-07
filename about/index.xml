@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on The New Best Practices</title>
+    <link>http://thenewbestpractices.com/about/</link>
+    <description>Recent content in Abouts on The New Best Practices</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://thenewbestpractices.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About The New Best Practices</title>
+      <link>http://thenewbestpractices.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thenewbestpractices.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

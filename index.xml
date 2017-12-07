@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The New Best Practices</title>
+    <link>http://thenewbestpractices.com/</link>
+    <description>Recent content on The New Best Practices</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2017 10:07:01 -0400</lastBuildDate>
+    
+	<atom:link href="http://thenewbestpractices.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Review</title>
+      <link>http://thenewbestpractices.com/code-review/</link>
+      <pubDate>Sat, 02 Sep 2017 10:07:01 -0400</pubDate>
+      
+      <guid>http://thenewbestpractices.com/code-review/</guid>
+      <description>Yo we talk about Code Review in here</description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>http://thenewbestpractices.com/comments/</link>
+      <pubDate>Sat, 02 Sep 2017 10:07:01 -0400</pubDate>
+      
+      <guid>http://thenewbestpractices.com/comments/</guid>
+      <description>Yo we talk about comments in here</description>
+    </item>
+    
+    <item>
+      <title>YAGNI</title>
+      <link>http://thenewbestpractices.com/yagni/</link>
+      <pubDate>Sat, 02 Sep 2017 10:07:01 -0400</pubDate>
+      
+      <guid>http://thenewbestpractices.com/yagni/</guid>
+      <description>Yo we talk about YAGNI</description>
+    </item>
+    
+    <item>
+      <title>Points</title>
+      <link>http://thenewbestpractices.com/points/</link>
+      <pubDate>Sat, 02 Sep 2017 09:48:23 -0400</pubDate>
+      
+      <guid>http://thenewbestpractices.com/points/</guid>
+      <description>Here is a podcast about points</description>
+    </item>
+    
+    <item>
+      <title>About The New Best Practices</title>
+      <link>http://thenewbestpractices.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://thenewbestpractices.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

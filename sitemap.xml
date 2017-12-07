@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://thenewbestpractices.com/code-review/</loc>
+    <lastmod>2017-09-02T10:07:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/comments/</loc>
+    <lastmod>2017-09-02T10:07:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/yagni/</loc>
+    <lastmod>2017-09-02T10:07:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/points/</loc>
+    <lastmod>2017-09-02T09:48:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/episode/</loc>
+    <lastmod>2017-09-02T10:07:01-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thenewbestpractices.com/</loc>
+    <lastmod>2017-09-02T10:07:01-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

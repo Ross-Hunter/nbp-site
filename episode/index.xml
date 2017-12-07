@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>The New Best Practices</title>
+    <atom:link href="http://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://thenewbestpractices.com</link>
+    <lastBuildDate>Sat, 2 Sep 2017 10:07:01 -0400</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>en-us</language>
+    <copyright></copyright>
+    <itunes:subtitle>Really Good Podcast</itunes:subtitle>
+    <itunes:author>Ross Hunter</itunes:author>
+    <itunes:summary>Really Good Podcast</itunes:summary>
+    <description>Really Good Podcast</description>
+    <itunes:owner>
+    <itunes:name>Ross Hunter</itunes:name>
+    <itunes:email>ross-hunter@ross-hunter.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category></channel>
+</rss>
