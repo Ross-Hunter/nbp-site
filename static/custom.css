@@ -39,7 +39,7 @@ a:hover {
 }
 
 .main_container {
-  background-color: #98CDF9;
+  background-color: #fff;
   margin-bottom: 1rem;
 }
 
@@ -55,10 +55,6 @@ a:hover {
   margin-top: 1rem;
   padding: 2rem;
   margin-bottom: 0;
-}
-
-.episode-list {
-  padding: 1rem;
 }
 
 .jumbotron .authors {
@@ -90,4 +86,14 @@ a:hover {
 
 .subscribe_buttons>a:hover {
   color: #FF7337;
+}
+
+.hompage_episode_description {
+  padding-left: 0;
+}
+
+.homepage_episode_row {
+  border-radius: 0.3em;
+  background-color: #98CDF9;
+  margin: 2em 0;
 }
