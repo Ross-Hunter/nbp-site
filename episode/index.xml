@@ -10,8 +10,8 @@
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>The New Best Practices</title>
-    <atom:link href="http://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
-    <link>http://thenewbestpractices.com</link>
+    <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thenewbestpractices.com</link>
     <lastBuildDate>Sat, 2 Sep 2017 10:07:01 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>

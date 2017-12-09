@@ -18,8 +18,12 @@ a:hover {
   color: #077FE2;
 }
 
+.navbar {
+  padding: 0.5em 0;
+}
+
 .navbar-brand {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -30,8 +34,18 @@ a:hover {
   color: #077FE2;
 }
 
-.navbar-nav li{
+.navbar-nav li {
   margin: auto;
+}
+
+.navbar-toggler {
+  float: right;
+  margin-top: 0.25em;
+}
+
+.mr-auto {
+  margin-right: 0 !important;
+  width: 100%;
 }
 
 .middle_container, .main_container {
@@ -80,11 +94,11 @@ a:hover {
   }
 }
 
-.subscribe_buttons>a {
+.subscribe_buttons > a {
   color: #FFC000;
 }
 
-.subscribe_buttons>a:hover {
+.subscribe_buttons > a:hover {
   color: #FF7337;
 }
 
