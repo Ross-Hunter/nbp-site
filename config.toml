@@ -1,4 +1,4 @@
-baseurl = "http://thenewbestpractices.com"
+baseurl = "https://thenewbestpractices.com"
 languageCode = "en-us"
 title = "The New Best Practices"
 theme = "castanet"
