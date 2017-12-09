@@ -53,7 +53,7 @@ disqusShortname = "the-new-best-practices"
       identifier = "1"
       name  = "Ross Hunter"
       thumbnail = "/images/ross.png"
-      bio = "Ross Hunter is a pretty cool web dude."
+      bio = "A Rubyist at heart, he values his own happiness and productivity above being one of the cool kids. Actively working on not becoming an overly-cynical curmudgeon &mdash; he is not doing a good job at it. "
       [params.authors.Ross.social]
         github = "Ross-Hunter"
         facebook = "ross.hunter"
