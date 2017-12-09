@@ -53,7 +53,7 @@ disqusShortname = "the-new-best-practices"
       identifier = "1"
       name  = "Ross Hunter"
       thumbnail = "/images/ross.png"
-      bio = "A Rubyist at heart, he values his own happiness and productivity above being one of the cool kids. Actively working on not becoming an overly-cynical curmudgeon &mdash; he is not doing a good job at it. "
+      bio = "Ross is a Rubyist at heart, he values his own happiness and productivity above being one of the cool kids. He actively works on not being an overly-cynical curmudgeon &mdash; he does not do a good job. "
       [params.authors.Ross.social]
         github = "Ross-Hunter"
         facebook = "ross.hunter"
@@ -71,9 +71,12 @@ disqusShortname = "the-new-best-practices"
       identifier = "3"
       name = "Jace Browning"
       thumbnail = "/images/jace.jpg"
-      bio = "Jace Browning likes to complain about software."
+      bio = "Jace Browning builds, customizes, integrates, and teaches engineering software tools. He has worked on products in the embedded, mobile, and web space, but his expertise is systems programming, specifically in Python. Professionally, he focuses on quality assurance, automation, and process optimization. In his free time, he enjoys contributing to open source and volunteering at local technology events."
       [params.authors.Jace.social]
         twitter = "jacebrowning"
+        linkedin = "https://www.linkedin.com/in/jacebrowning"
+        github = "https://github.com/jacebrowning"
+        homepage = "http://jacebrowning.info"
 
     [params.links]
       [params.links.ross]
