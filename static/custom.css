@@ -34,10 +34,6 @@ a:hover {
   color: #077FE2;
 }
 
-.navbar-nav li {
-  margin: auto;
-}
-
 .navbar-toggler {
   float: right;
   margin-top: 0.25em;
@@ -88,6 +84,10 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+  .navbar-nav li {
+    margin: auto;
+  }
+
   .subscribe_buttons {
     text-align: center;
     margin: 0 auto;
