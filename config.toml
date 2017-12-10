@@ -64,9 +64,11 @@ disqusShortname = "the-new-best-practices"
       identifier = "2"
       name = "Jason Sich"
       thumbnail = "/images/jason.jpeg"
-      bio = "Jason Sich is best known as author of the Sich New Technical Dictionary."
+      bio = "Jason is a journeyman searching for both the objective & subjective truths of software development. He is never content and always restless."
       [params.authors.Jason.social]
         twitter = "jasich"
+        github = "https://github.com/jasich"
+        linkedin = "https://www.linkedin.com/in/jasich/"
     [params.authors.Jace]
       identifier = "3"
       name = "Jace Browning"
