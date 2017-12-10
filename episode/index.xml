@@ -27,5 +27,41 @@
     </itunes:owner>
     <itunes:image href="" />
     <itunes:category text="Technology">
-      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category></channel>
+      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
+        <item>
+          <title>Code Review</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Code Review can mean different things to different people]></itunes:summary>
+          <description>&lt;![CDATA[Code Review can mean different things to different people]></description>
+          <enclosure url="/episodes/code-review.mp3"  type="audio/mpeg" />
+          <guid>/episodes/code-review.mp3</guid>
+          <link>https://thenewbestpractices.com/code-review/</link>
+          <pubDate>Sat, 02 Sep 2017 10:07:01 -0400 </pubDate></item>
+        <item>
+          <title>Comments</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Yo we talk about comments in here]></itunes:summary>
+          <description>&lt;![CDATA[Yo we talk about comments in here]></description>
+          <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
+          <guid>/episodes/comments.mp3</guid>
+          <link>https://thenewbestpractices.com/comments/</link>
+          <pubDate>Sat, 02 Sep 2017 10:07:01 -0400 </pubDate></item>
+        <item>
+          <title>YAGNI</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[We talk about YAGNI]></itunes:summary>
+          <description>&lt;![CDATA[We talk about YAGNI]></description>
+          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
+          <guid>/episodes/yagni.mp3</guid>
+          <link>https://thenewbestpractices.com/yagni/</link>
+          <pubDate>Sat, 02 Sep 2017 10:07:01 -0400 </pubDate></item>
+        <item>
+          <title>Points</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Here is a podcast about points]></itunes:summary>
+          <description>&lt;![CDATA[Here is a podcast about points]></description>
+          <enclosure url="/episodes/points.mp3"  type="audio/mpeg" />
+          <guid>/episodes/points.mp3</guid>
+          <link>https://thenewbestpractices.com/points/</link>
+          <pubDate>Sat, 02 Sep 2017 09:48:23 -0400 </pubDate></item></channel>
 </rss>
