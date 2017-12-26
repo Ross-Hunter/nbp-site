@@ -31,8 +31,8 @@
         <item>
           <title>Code Review</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Code Review can mean different things to different people]></itunes:summary>
-          <description>&lt;![CDATA[Code Review can mean different things to different people]></description>
+          <itunes:summary>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></itunes:summary>
+          <description>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></description>
           <enclosure url="/episodes/code-review.mp3"  type="audio/mpeg" />
           <guid>/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/code-review/</link>
@@ -49,8 +49,8 @@
         <item>
           <title>YAGNI</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[We talk about YAGNI]></itunes:summary>
-          <description>&lt;![CDATA[We talk about YAGNI]></description>
+          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
+          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
           <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
           <guid>/episodes/yagni.mp3</guid>
           <link>https://thenewbestpractices.com/yagni/</link>
