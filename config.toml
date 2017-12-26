@@ -67,8 +67,8 @@ disqusShortname = "the-new-best-practices"
       bio = "Jason is a journeyman searching for both the objective & subjective truths of software development. He is never content and always restless."
       [params.authors.Jason.social]
         twitter = "jasich"
-        github = "https://github.com/jasich"
-        linkedin = "https://www.linkedin.com/in/jasich/"
+        github = "jasich"
+        linkedin = "jasich"
     [params.authors.Jace]
       identifier = "3"
       name = "Jace Browning"
@@ -76,8 +76,8 @@ disqusShortname = "the-new-best-practices"
       bio = "Jace Browning builds, customizes, integrates, and teaches engineering software tools. He has worked on products in the embedded, mobile, and web space, but his expertise is systems programming, specifically in Python. Professionally, he focuses on quality assurance, automation, and process optimization. In his free time, he enjoys contributing to open source and volunteering at local technology events."
       [params.authors.Jace.social]
         twitter = "jacebrowning"
-        linkedin = "https://www.linkedin.com/in/jacebrowning"
-        github = "https://github.com/jacebrowning"
+        github = "jacebrowning"
+        linkedin = "jacebrowning"
         homepage = "http://jacebrowning.info"
 
     [params.links]
