@@ -6,7 +6,7 @@
     <description>Recent content on The New Best Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Sep 2017 10:07:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 12:07:01 -0400</lastBuildDate>
     
 	<atom:link href="https://thenewbestpractices.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Code Review</title>
       <link>https://thenewbestpractices.com/code-review/</link>
-      <pubDate>Sat, 02 Sep 2017 10:07:01 -0400</pubDate>
+      <pubDate>Fri, 19 Jan 2018 12:07:01 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/code-review/</guid>
       <description></description>
@@ -23,28 +23,28 @@
     <item>
       <title>Comments</title>
       <link>https://thenewbestpractices.com/comments/</link>
-      <pubDate>Sat, 02 Sep 2017 10:07:01 -0400</pubDate>
+      <pubDate>Fri, 19 Jan 2018 12:07:01 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/comments/</guid>
       <description>Yo we talk about comments in here</description>
     </item>
     
     <item>
-      <title>YAGNI</title>
-      <link>https://thenewbestpractices.com/yagni/</link>
-      <pubDate>Sat, 02 Sep 2017 10:07:01 -0400</pubDate>
-      
-      <guid>https://thenewbestpractices.com/yagni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Points</title>
       <link>https://thenewbestpractices.com/points/</link>
-      <pubDate>Sat, 02 Sep 2017 09:48:23 -0400</pubDate>
+      <pubDate>Fri, 19 Jan 2018 12:07:01 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/points/</guid>
       <description>Here is a podcast about points</description>
+    </item>
+    
+    <item>
+      <title>YAGNI</title>
+      <link>https://thenewbestpractices.com/yagni/</link>
+      <pubDate>Fri, 19 Jan 2018 12:07:01 -0400</pubDate>
+      
+      <guid>https://thenewbestpractices.com/yagni/</guid>
+      <description></description>
     </item>
     
     <item>

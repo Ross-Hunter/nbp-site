@@ -12,20 +12,20 @@
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
-    <lastBuildDate>Sat, 2 Sep 2017 10:07:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 12:07:01 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
     <copyright></copyright>
     <itunes:subtitle>Really Good Podcast</itunes:subtitle>
     <itunes:author>Ross Hunter</itunes:author>
-    <itunes:summary>Really Good Podcast</itunes:summary>
-    <description>Really Good Podcast</description>
+    <itunes:summary>The New Best Practices is a podcast about the process of creating software.</itunes:summary>
+    <description>The New Best Practices is a podcast about the process of creating software.</description>
     <itunes:owner>
     <itunes:name>Ross Hunter</itunes:name>
     <itunes:email>ross-hunter@ross-hunter.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="" />
+    <itunes:image href="https://thenewbestpractices.com/images/new.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
         <item>
@@ -36,7 +36,7 @@
           <enclosure url="/episodes/code-review.mp3"  type="audio/mpeg" />
           <guid>/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/code-review/</link>
-          <pubDate>Sat, 02 Sep 2017 10:07:01 -0400 </pubDate></item>
+          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item>
         <item>
           <title>Comments</title>
           <itunes:author> </itunes:author>
@@ -45,16 +45,7 @@
           <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
           <guid>/episodes/comments.mp3</guid>
           <link>https://thenewbestpractices.com/comments/</link>
-          <pubDate>Sat, 02 Sep 2017 10:07:01 -0400 </pubDate></item>
-        <item>
-          <title>YAGNI</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
-          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
-          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
-          <guid>/episodes/yagni.mp3</guid>
-          <link>https://thenewbestpractices.com/yagni/</link>
-          <pubDate>Sat, 02 Sep 2017 10:07:01 -0400 </pubDate></item>
+          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item>
         <item>
           <title>Points</title>
           <itunes:author> </itunes:author>
@@ -63,5 +54,14 @@
           <enclosure url="/episodes/points.mp3"  type="audio/mpeg" />
           <guid>/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/points/</link>
-          <pubDate>Sat, 02 Sep 2017 09:48:23 -0400 </pubDate></item></channel>
+          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item>
+        <item>
+          <title>YAGNI</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
+          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
+          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
+          <guid>/episodes/yagni.mp3</guid>
+          <link>https://thenewbestpractices.com/yagni/</link>
+          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item></channel>
 </rss>
