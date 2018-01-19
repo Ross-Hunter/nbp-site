@@ -20,6 +20,11 @@ a:hover {
 
 .navbar {
   padding: 0.5em 0;
+  border-bottom: 2px solid black;
+}
+
+.bottom_container .navbar {
+  border: 0;
 }
 
 .navbar-brand {
@@ -45,7 +50,12 @@ a:hover {
 }
 
 .middle_container, .main_container {
+  padding-top: 0.5rem;
   border-radius: 0.3rem;
+}
+
+.middle_container {
+  border: 2px solid black;
 }
 
 .main_container {
@@ -62,7 +72,6 @@ a:hover {
 }
 
 .jumbotron {
-  margin-top: 1rem;
   padding: 2rem;
   margin-bottom: 0;
 }
@@ -110,4 +119,8 @@ a:hover {
   border-radius: 0.3em;
   background-color: #98CDF9;
   margin: 2em 0;
+}
+
+.img-fluid {
+  border: 2px solid black;
 }
