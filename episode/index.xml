@@ -40,8 +40,8 @@
         <item>
           <title>Comments</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Yo we talk about comments in here]></itunes:summary>
-          <description>&lt;![CDATA[Yo we talk about comments in here]></description>
+          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
+          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
           <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
           <guid>/episodes/comments.mp3</guid>
           <link>https://thenewbestpractices.com/comments/</link>
@@ -49,8 +49,8 @@
         <item>
           <title>Points</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Here is a podcast about points]></itunes:summary>
-          <description>&lt;![CDATA[Here is a podcast about points]></description>
+          <itunes:summary>&lt;![CDATA[What the hell are points anyway? Do you directly translate points into hours anyway? Are they the best way to estimate every task? Should we even be estimating?]></itunes:summary>
+          <description>&lt;![CDATA[What the hell are points anyway? Do you directly translate points into hours anyway? Are they the best way to estimate every task? Should we even be estimating?]></description>
           <enclosure url="/episodes/points.mp3"  type="audio/mpeg" />
           <guid>/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/points/</link>
@@ -58,8 +58,8 @@
         <item>
           <title>YAGNI</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
-          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe &ldquo;you aren&rsquo;t gonna need it&rdquo;. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
+          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
+          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
           <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
           <guid>/episodes/yagni.mp3</guid>
           <link>https://thenewbestpractices.com/yagni/</link>
