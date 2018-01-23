@@ -92,15 +92,8 @@ a:hover {
   font-size: 1.2rem;
 }
 
-@media (max-width: 768px) {
-  .navbar-nav li {
-    margin: auto;
-  }
-
-  .subscribe_buttons {
-    text-align: center;
-    margin: 0 auto;
-  }
+.subscribe_buttons {
+  margin-bottom: 1em;
 }
 
 .subscribe_buttons > a {
@@ -123,4 +116,20 @@ a:hover {
 
 .img-fluid {
   border: 2px solid black;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav li {
+    margin: auto;
+  }
+
+  .jumbotron-host {
+    max-width: 280px;
+  }
+
+  .subscribe_buttons {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
