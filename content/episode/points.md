@@ -1,6 +1,6 @@
 ---
 title: Points
-date: 2018-01-19T12:07:01-04:00
+date: 2018-01-17T12:00:00-04:00
 description: What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.
 podcast_file: /episodes/points.mp3
 explicit: no
