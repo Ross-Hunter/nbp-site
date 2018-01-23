@@ -29,13 +29,13 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
         <item>
-          <title>YAGNI</title>
+          <title>Comments</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
-          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
-          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
-          <guid>/episodes/yagni.mp3</guid>
-          <link>https://thenewbestpractices.com/yagni/</link>
+          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
+          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
+          <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
+          <guid>/episodes/comments.mp3</guid>
+          <link>https://thenewbestpractices.com/comments/</link>
           <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
           <title>Code Review</title>
@@ -47,13 +47,13 @@
           <link>https://thenewbestpractices.com/code-review/</link>
           <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
-          <title>Comments</title>
+          <title>YAGNI</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
-          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
-          <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
-          <guid>/episodes/comments.mp3</guid>
-          <link>https://thenewbestpractices.com/comments/</link>
+          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
+          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
+          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
+          <guid>/episodes/yagni.mp3</guid>
+          <link>https://thenewbestpractices.com/yagni/</link>
           <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
           <title>Points</title>
