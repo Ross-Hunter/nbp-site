@@ -3,7 +3,6 @@ title: Comments
 date: 2018-01-20T12:00:00-04:00
 description: How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?
 podcast_file: /episodes/comments.mp3
-explicit: no
 ---
 # &nbsp;
 ## Outline
