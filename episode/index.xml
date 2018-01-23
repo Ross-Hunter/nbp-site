@@ -37,7 +37,7 @@
           <enclosure url="https://thenewbestpractices.com/episodes/comments.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/comments.mp3</guid>
           <link>https://thenewbestpractices.com/comments/</link>
-          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate></item>
+          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>54:01</itunes:duration></item>
         <item>
           <title>Code Review</title>
           <itunes:author> </itunes:author>
@@ -46,7 +46,7 @@
           <enclosure url="https://thenewbestpractices.com/episodes/code-review.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/code-review/</link>
-          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate></item>
+          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>36:13</itunes:duration></item>
         <item>
           <title>YAGNI</title>
           <itunes:author> </itunes:author>
@@ -55,7 +55,7 @@
           <enclosure url="https://thenewbestpractices.com/episodes/yagni.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/yagni.mp3</guid>
           <link>https://thenewbestpractices.com/yagni/</link>
-          <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate></item>
+          <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>1:00:54</itunes:duration></item>
         <item>
           <title>Points</title>
           <itunes:author> </itunes:author>
@@ -64,5 +64,5 @@
           <enclosure url="https://thenewbestpractices.com/episodes/points.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/points/</link>
-          <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate></item></channel>
+          <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>27:54</itunes:duration></item></channel>
 </rss>
