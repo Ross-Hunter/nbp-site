@@ -30,15 +30,6 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
         <item>
-          <title>Comments</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
-          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/comments.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/comments.mp3</guid>
-          <link>https://thenewbestpractices.com/comments/</link>
-          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>54:01</itunes:duration></item>
-        <item>
           <title>Code Review</title>
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></itunes:summary>
@@ -46,7 +37,16 @@
           <enclosure url="https://thenewbestpractices.com/episodes/code-review.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/code-review/</link>
-          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>36:13</itunes:duration></item>
+          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>36:13</itunes:duration></item>
+        <item>
+          <title>Comments</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
+          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
+          <enclosure url="https://thenewbestpractices.com/episodes/comments.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/comments.mp3</guid>
+          <link>https://thenewbestpractices.com/comments/</link>
+          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>54:01</itunes:duration></item>
         <item>
           <title>YAGNI</title>
           <itunes:author> </itunes:author>
