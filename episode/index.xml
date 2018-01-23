@@ -25,6 +25,7 @@
     <itunes:name>Ross Hunter</itunes:name>
     <itunes:email>ross-hunter@ross-hunter.com</itunes:email>
     </itunes:owner>
+    <itunes:explicit>clean</itunes:explicit>
     <itunes:image href="https://thenewbestpractices.com/images/new.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
@@ -33,8 +34,8 @@
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
           <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
-          <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
-          <guid>/episodes/comments.mp3</guid>
+          <enclosure url="https://thenewbestpractices.com/episodes/comments.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/comments.mp3</guid>
           <link>https://thenewbestpractices.com/comments/</link>
           <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
@@ -42,8 +43,8 @@
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></itunes:summary>
           <description>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></description>
-          <enclosure url="/episodes/code-review.mp3"  type="audio/mpeg" />
-          <guid>/episodes/code-review.mp3</guid>
+          <enclosure url="https://thenewbestpractices.com/episodes/code-review.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/code-review/</link>
           <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
@@ -51,8 +52,8 @@
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
           <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
-          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
-          <guid>/episodes/yagni.mp3</guid>
+          <enclosure url="https://thenewbestpractices.com/episodes/yagni.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/yagni.mp3</guid>
           <link>https://thenewbestpractices.com/yagni/</link>
           <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
@@ -60,8 +61,8 @@
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></itunes:summary>
           <description>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></description>
-          <enclosure url="/episodes/points.mp3"  type="audio/mpeg" />
-          <guid>/episodes/points.mp3</guid>
+          <enclosure url="https://thenewbestpractices.com/episodes/points.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/points/</link>
           <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate></item></channel>
 </rss>
