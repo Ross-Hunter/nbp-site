@@ -12,7 +12,7 @@
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
-    <lastBuildDate>Fri, 19 Jan 2018 12:07:01 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2018 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,6 +29,15 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
         <item>
+          <title>YAGNI</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
+          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
+          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
+          <guid>/episodes/yagni.mp3</guid>
+          <link>https://thenewbestpractices.com/yagni/</link>
+          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate></item>
+        <item>
           <title>Code Review</title>
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></itunes:summary>
@@ -36,7 +45,7 @@
           <enclosure url="/episodes/code-review.mp3"  type="audio/mpeg" />
           <guid>/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/code-review/</link>
-          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item>
+          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
           <title>Comments</title>
           <itunes:author> </itunes:author>
@@ -45,7 +54,7 @@
           <enclosure url="/episodes/comments.mp3"  type="audio/mpeg" />
           <guid>/episodes/comments.mp3</guid>
           <link>https://thenewbestpractices.com/comments/</link>
-          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item>
+          <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate></item>
         <item>
           <title>Points</title>
           <itunes:author> </itunes:author>
@@ -54,14 +63,5 @@
           <enclosure url="/episodes/points.mp3"  type="audio/mpeg" />
           <guid>/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/points/</link>
-          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item>
-        <item>
-          <title>YAGNI</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
-          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
-          <enclosure url="/episodes/yagni.mp3"  type="audio/mpeg" />
-          <guid>/episodes/yagni.mp3</guid>
-          <link>https://thenewbestpractices.com/yagni/</link>
-          <pubDate>Fri, 19 Jan 2018 12:07:01 -0400 </pubDate></item></channel>
+          <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate></item></channel>
 </rss>
