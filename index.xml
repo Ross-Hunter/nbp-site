@@ -26,7 +26,7 @@
       <pubDate>Fri, 19 Jan 2018 12:07:01 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/comments/</guid>
-      <description></description>
+      <description>&amp;nbsp; Outline  Definition of comments: &amp;ldquo;Metadata in source code that describe what code fails to communicate. Some languages and frameworks opt to use the mechanism of comments as formal documentation for code, but these two concepts should be separated.&amp;ldquo; Strive to make code self-documenting Formal Documentation vs. Code Comments Using tests to document your code Considering strong types as a type of documentation Docstring Tests The value of documenting types Worthless comments should be avoided Don&amp;rsquo;t use comments to &amp;ldquo;vent&amp;rdquo; your emotions  Links  Python doctest JSON API Expectations Semantic expectation helpers for JSON API testing using RSpec and Airborne.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 19 Jan 2018 12:07:01 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/points/</guid>
-      <description></description>
+      <description>&amp;nbsp; Outline  Software development is not a &amp;ldquo;game&amp;rdquo;, i.e. you aren&amp;rsquo;t aiming to get more points Points give you a reference for how your people, process &amp;amp; technology are working together Velocity therefore is a function with these inputs Estimation is possible through a &amp;ldquo;Stable Velocity&amp;rdquo; Estimates aren&amp;rsquo;t meant to be used to hide behind Fixed estimates aren&amp;rsquo;t really possible as the number of variables in a project consistently change Developers need to deteremine their lifestyle.</description>
     </item>
     
     <item>

@@ -49,8 +49,8 @@
         <item>
           <title>Points</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[What the hell are points anyway? Do you directly translate points into hours anyway? Are they the best way to estimate every task? Should we even be estimating?]></itunes:summary>
-          <description>&lt;![CDATA[What the hell are points anyway? Do you directly translate points into hours anyway? Are they the best way to estimate every task? Should we even be estimating?]></description>
+          <itunes:summary>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></itunes:summary>
+          <description>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></description>
           <enclosure url="/episodes/points.mp3"  type="audio/mpeg" />
           <guid>/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/points/</link>
