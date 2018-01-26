@@ -45,7 +45,7 @@ disqusShortname = "the-new-best-practices"
   [params.social]
     facebook = "thenewbestpractices"
     facebook_admin = "208701582"
-    twitter = "newbestpractice"
+    twitter = "nbp_podcast"
 
   [params.authors]
     [params.authors.Ross]
