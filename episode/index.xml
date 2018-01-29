@@ -41,8 +41,8 @@
         <item>
           <title>Code Comments</title>
           <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></itunes:summary>
-          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?]></description>
+          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?]></itunes:summary>
+          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?]></description>
           <enclosure url="https://thenewbestpractices.com/episodes/comments.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/comments.mp3</guid>
           <link>https://thenewbestpractices.com/comments/</link>
