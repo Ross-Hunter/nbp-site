@@ -1,7 +1,7 @@
 ---
 title: Code Comments
 date: 2018-01-19T12:00:00-04:00
-description: How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team?
+description: How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?
 podcast_file: /episodes/comments.mp3
 podcast_duration: '54:01'
 ---
