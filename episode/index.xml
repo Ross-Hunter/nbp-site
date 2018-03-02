@@ -12,7 +12,7 @@
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
-    <lastBuildDate>Sat, 20 Jan 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 1 Mar 2018 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -30,13 +30,22 @@
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
         <item>
+          <title>Monorepo</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?]></itunes:summary>
+          <description>&lt;![CDATA[Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?]></description>
+          <enclosure url="https://thenewbestpractices.com/episodes/monorepo.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/monorepo.mp3</guid>
+          <link>https://thenewbestpractices.com/episodes/monorepo/</link>
+          <pubDate>Thu, 01 Mar 2018 12:00:00 -0400 </pubDate><itunes:duration>37:54</itunes:duration></item>
+        <item>
           <title>Code Review</title>
           <itunes:author> </itunes:author>
           <itunes:summary>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></itunes:summary>
           <description>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></description>
           <enclosure url="https://thenewbestpractices.com/episodes/code-review.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/code-review.mp3</guid>
-          <link>https://thenewbestpractices.com/code-review/</link>
+          <link>https://thenewbestpractices.com/episodes/code-review/</link>
           <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>36:13</itunes:duration></item>
         <item>
           <title>Code Comments</title>
@@ -45,7 +54,7 @@
           <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?]></description>
           <enclosure url="https://thenewbestpractices.com/episodes/code-comments.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/code-comments.mp3</guid>
-          <link>https://thenewbestpractices.com/code-comments/</link>
+          <link>https://thenewbestpractices.com/episodes/code-comments/</link>
           <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>54:01</itunes:duration></item>
         <item>
           <title>YAGNI</title>
@@ -54,7 +63,7 @@
           <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
           <enclosure url="https://thenewbestpractices.com/episodes/yagni.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/yagni.mp3</guid>
-          <link>https://thenewbestpractices.com/yagni/</link>
+          <link>https://thenewbestpractices.com/episodes/yagni/</link>
           <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>1:00:54</itunes:duration></item>
         <item>
           <title>Points</title>
@@ -63,6 +72,6 @@
           <description>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></description>
           <enclosure url="https://thenewbestpractices.com/episodes/points.mp3"  type="audio/mpeg" />
           <guid>https://thenewbestpractices.com/episodes/points.mp3</guid>
-          <link>https://thenewbestpractices.com/points/</link>
+          <link>https://thenewbestpractices.com/episodes/points/</link>
           <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>27:54</itunes:duration></item></channel>
 </rss>
