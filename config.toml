@@ -7,7 +7,7 @@ disqusShortname = "the-new-best-practices"
 
 [permalinks]
   about = "/:filename/"
-  episode = "/:filename/"
+  episode = "/episodes/:filename/"
 
 [[Menu.Main]]
   name = "About"
