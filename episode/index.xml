@@ -12,7 +12,7 @@
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
-    <lastBuildDate>Thu, 1 Mar 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Mar 2018 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,6 +29,15 @@
     <itunes:image href="https://thenewbestpractices.com/images/new.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
+        <item>
+          <title>Learning New Things</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?]></itunes:summary>
+          <description>&lt;![CDATA[In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?]></description>
+          <enclosure url="https://thenewbestpractices.com/episodes/learn-new-things.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/learn-new-things.mp3</guid>
+          <link>https://thenewbestpractices.com/episodes/learning-new-things/</link>
+          <pubDate>Fri, 30 Mar 2018 12:00:00 -0400 </pubDate><itunes:duration>49:55</itunes:duration></item>
         <item>
           <title>Monorepo</title>
           <itunes:author> </itunes:author>

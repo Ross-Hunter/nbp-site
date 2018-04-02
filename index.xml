@@ -6,10 +6,19 @@
     <description>Recent content on The New Best Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Mar 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Mar 2018 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://thenewbestpractices.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning New Things</title>
+      <link>https://thenewbestpractices.com/episodes/learning-new-things/</link>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 -0400</pubDate>
+      
+      <guid>https://thenewbestpractices.com/episodes/learning-new-things/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monorepo</title>
