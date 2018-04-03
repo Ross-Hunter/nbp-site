@@ -1,11 +1,8 @@
 <div class="container-fluid grid_container">
 
 <div class="jumbotron">
-  <div class="row site-description">
-    <h2>The New Best Practices is a podcast about the process of creating software.</h2>
-  </div>
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
     {{ if (isset .Site.Params "itunes_subscribe") }}
       <div class = "col subscribe_buttons col-sm-auto">
         <a class="btn btn-default" href="{{ .Site.Params.itunes_subscribe}}"><i class="fab fa-apple"></i>&nbsp;iTunes</a>
@@ -36,15 +33,24 @@
       </div>
     {{ end }}
     </div>
-    <div class="col-md-6">
+    <div class="col-md-8">
       <div class="row authors">
+        <div class="col-md-3">
+            <img src="/images/stamp-logo-light.png" class="img-center  img-fluid">
+            <p class="text-center text-capitalize">&nbsp;</p>
+        </div>
         {{ range $p:= sort $.Site.Params.authors "identifier" }}
-        <div class="col-md-4">
+        <div class="col-md-3">
             <img alt="{{ $p.name }}" src="{{ $p.thumbnail | absURL }}" class="img-center rounded-circle img-fluid jumbotron-host">
             <p class="text-center text-capitalize">{{ $p.name }}</p>
         </div>
         {{ end }}
       </div>
+    </div>
+  </div>
+  <div class="row site-description">
+    <div class="col-md-12">
+      <h2>The New Best Practices is a podcast about the process of creating software.</h2>
     </div>
   </div>
 </div>
