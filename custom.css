@@ -5,6 +5,8 @@
 /* hover 077FE2 */
 /* light 98CDF9 */
 
+/* dark blue 1e3c61 */
+
 body {
   padding-top: 100px;
   background-color: #42a4f4;
@@ -29,6 +31,13 @@ a:hover {
 
 .navbar-brand {
   font-size: 1.5em;
+  height: 60px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.navbar-brand img {
+  max-height: 100%;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -83,8 +92,8 @@ a:hover {
 .site-description h2 {
   margin: 0 auto;
   text-align: center;
-  padding-top: 0;
-  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+  font-size: 1.9rem;
 }
 
 .site-description p {
@@ -114,7 +123,7 @@ a:hover {
   margin: 2em 0;
 }
 
-.img-fluid {
+.jumbotron-host {
   border: 2px solid black;
 }
 
