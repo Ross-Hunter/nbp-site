@@ -22,3 +22,10 @@ Run the development server:
 $ hugo serve
 ```
 
+# Deploy
+
+Deploy to GitHub pages:
+
+```
+$ ./deploy.sh
+```
