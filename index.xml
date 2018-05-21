@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Delivery</title>
+      <link>https://thenewbestpractices.com/episodes/delivery/</link>
+      <pubDate>Fri, 19 Jan 2018 12:00:00 -0400</pubDate>
+      
+      <guid>https://thenewbestpractices.com/episodes/delivery/</guid>
+      <description> &amp;nbsp; Outline  Definition of delivery: &amp;ldquo;Putting software where someone can use it.&amp;ldquo; Branch from develop, or branch from master? Why not just commit to master? Don&amp;rsquo;t deploy a development environment. qa, test and uat are bad branch names. You should automate the deployment of PR branches. Understand a feature before start it. Software is bad. Developers should be manually testing during code review.  Links  Git Flow GitHub Flow Heroku Flow Heroku Review Apps  </description>
+    </item>
+    
+    <item>
       <title>YAGNI</title>
       <link>https://thenewbestpractices.com/episodes/yagni/</link>
       <pubDate>Thu, 18 Jan 2018 12:00:00 -0400</pubDate>
