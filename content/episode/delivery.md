@@ -1,7 +1,7 @@
 ---
 title: Delivery
 date: 2018-05-20T12:00:00-04:00
-description: How do we delivery software?
+description: How do we deliver software? We talk about git branching strategies, as well as automated and non-automated testing and deployment.
 podcast_file: /episodes/delivery.mp3
 podcast_duration: '54:01'
 ---
