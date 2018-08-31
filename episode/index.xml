@@ -12,7 +12,7 @@
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
-    <lastBuildDate>Sun, 20 May 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,6 +29,15 @@
     <itunes:image href="https://thenewbestpractices.com/images/new.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
+        <item>
+          <title>Requirements</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?]></itunes:summary>
+          <description>&lt;![CDATA[How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?]></description>
+          <enclosure url="https://thenewbestpractices.com/episodes/requirements.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/requirements.mp3</guid>
+          <link>https://thenewbestpractices.com/episodes/requirements/</link>
+          <pubDate>Thu, 30 Aug 2018 12:00:00 -0400 </pubDate><itunes:duration>52:56</itunes:duration></item>
         <item>
           <title>Delivery</title>
           <itunes:author> </itunes:author>

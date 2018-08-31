@@ -6,10 +6,19 @@
     <description>Recent content on The New Best Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 May 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://thenewbestpractices.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Requirements</title>
+      <link>https://thenewbestpractices.com/episodes/requirements/</link>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 -0400</pubDate>
+      
+      <guid>https://thenewbestpractices.com/episodes/requirements/</guid>
+      <description> &amp;nbsp; Outline Links </description>
+    </item>
     
     <item>
       <title>Delivery</title>
@@ -26,7 +35,7 @@
       <pubDate>Fri, 30 Mar 2018 12:00:00 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/episodes/learning-new-things/</guid>
-      <description></description>
+      <description> &amp;nbsp; Outline Links </description>
     </item>
     
     <item>
@@ -44,7 +53,7 @@
       <pubDate>Sat, 20 Jan 2018 12:00:00 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/episodes/code-review/</guid>
-      <description></description>
+      <description> &amp;nbsp; Outline Links </description>
     </item>
     
     <item>
@@ -62,7 +71,7 @@
       <pubDate>Thu, 18 Jan 2018 12:00:00 -0400</pubDate>
       
       <guid>https://thenewbestpractices.com/episodes/yagni/</guid>
-      <description></description>
+      <description> &amp;nbsp; Outline Links </description>
     </item>
     
     <item>
