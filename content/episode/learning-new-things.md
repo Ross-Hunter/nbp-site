@@ -5,3 +5,13 @@ description: In this episode we talk about learning new things. We discuss what 
 podcast_file: /episodes/learn-new-things.mp3
 podcast_duration: '49:55'
 ---
+
+# &nbsp;
+
+## Outline
+
+
+
+## Links
+
+

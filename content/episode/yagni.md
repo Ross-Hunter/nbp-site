@@ -7,3 +7,13 @@ podcast_duration: '1:00:54'
 aliases: 
     - /yagni
 ---
+
+# &nbsp;
+
+## Outline
+
+
+
+## Links
+
+
