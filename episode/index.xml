@@ -31,10 +31,10 @@
       <itunes:name>Ross Hunter</itunes:name>
       <itunes:email>ross-hunter@ross-hunter.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://thenewbestpractices.com/images/new.png" />
-    <googleplay:image href="https://thenewbestpractices.com/images/new.png"></googleplay:image>
+    <itunes:image href="https://thenewbestpractices.com/images/stamp-logo-light.png" />
+    <googleplay:image href="https://thenewbestpractices.com/images/stamp-logo-light.png"></googleplay:image>
     <image>
-      <url>https://thenewbestpractices.com/images/new.png</url>
+      <url>https://thenewbestpractices.com/images/stamp-logo-light.png</url>
       <title>The New Best Practices</title>
       <link>https://thenewbestpractices.com</link>
     </image>
