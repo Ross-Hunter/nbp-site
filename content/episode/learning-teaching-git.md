@@ -2,7 +2,7 @@
 title: Learning & Teaching Git
 date: 2018-11-15T12:00:00-04:00
 description: Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.
-podcast_file: /episodes/learning-teach-git.mp3
+podcast_file: /episodes/learning-teaching-git.mp3
 podcast_duration: '37:46'
 ---
 
