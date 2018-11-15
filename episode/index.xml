@@ -7,11 +7,14 @@
      xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
      xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    >
   <channel>
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
+    <description>The New Best Practices is a podcast about the process of creating software.</description>
     <lastBuildDate>Thu, 15 Nov 2018 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -19,95 +22,256 @@
     <copyright></copyright>
     <itunes:subtitle>Really Good Podcast</itunes:subtitle>
     <itunes:author>The New Best Practices</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <googleplay:author>The New Best Practices</googleplay:author>
+    <googleplay:email>ross-hunter@ross-hunter.com</googleplay:email>
     <itunes:summary>The New Best Practices is a podcast about the process of creating software.</itunes:summary>
-    <description>The New Best Practices is a podcast about the process of creating software.</description>
+    <googleplay:description>The New Best Practices is a podcast about the process of creating software.</googleplay:description>
     <itunes:owner>
-    <itunes:name>Ross Hunter</itunes:name>
-    <itunes:email>ross-hunter@ross-hunter.com</itunes:email>
+      <itunes:name>Ross Hunter</itunes:name>
+      <itunes:email>ross-hunter@ross-hunter.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>clean</itunes:explicit>
     <itunes:image href="https://thenewbestpractices.com/images/new.png" />
+    <googleplay:image href="https://thenewbestpractices.com/images/new.png"></googleplay:image>
+    <image>
+      <url>https://thenewbestpractices.com/images/new.png</url>
+      <title>The New Best Practices</title>
+      <link>https://thenewbestpractices.com</link>
+    </image>
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
+    <generator>Hugo -- gohugo.io</generator>
         <item>
           <title>Learning &amp; Teaching Git</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.]></itunes:summary>
-          <description>&lt;![CDATA[Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/learning-teach-git.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/learning-teach-git.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/learning-teaching-git/</link>
-          <pubDate>Thu, 15 Nov 2018 12:00:00 -0400 </pubDate><itunes:duration>37:46</itunes:duration></item>
+          <pubDate>Thu, 15 Nov 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/learning-teach-git.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.</itunes:summary>
+        <description>Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.</description>
+        <googleplay:description>Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="links">Links</h2>
+
+<ul>
+<li><a href="https://git-scm.com/">Git</a> The correct choice for version control</li>
+<li><a href="https://github.com/">GitHub</a> The correct choice for hosting your source code</li>
+<li><a href="https://guides.github.com/activities/forking/">Forking</a> Important for contributing to open source, but not usually for day-to-day work</li>
+<li><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> Initiative to support new open source contributors</li>
+<li><a href="https://desktop.github.com/">GitHub Desktop</a> An OK Git GUI</li>
+<li><a href="https://www.sublimemerge.com/">Sublime Merge</a> An OK Git GUI</li>
+<li><a href="https://chris.beams.io/posts/git-commit/">Commit Message Standards</a> Improves the quality of your Git history</li>
+<li><a href="https://github.com/Ross-Hunter/dotfiles">Ross&rsquo; Dotfiles</a> Some good configs in here</li>
+<li><a href="https://github.com/jacebrowning/dotfiles">Jace&rsquo;s Dotfiles</a> Some <em>really</em> good configs in here</li>
+<li><a href="https://cscheng.info/2017/01/26/git-tip-autostash-with-git-pull-rebase.html">Pull w/ Rebase + Autostash</a> A brief explanation of our recommended <code>git pull</code> configuration</li>
+</ul>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/learning-teach-git.mp3"  type="audio/mpeg" /><itunes:duration>37:46</itunes:duration></item>
         <item>
           <title>Requirements</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?]></itunes:summary>
-          <description>&lt;![CDATA[How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/requirements.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/requirements.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/requirements/</link>
-          <pubDate>Thu, 30 Aug 2018 12:00:00 -0400 </pubDate><itunes:duration>52:56</itunes:duration></item>
+          <pubDate>Thu, 30 Aug 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/requirements.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?</itunes:summary>
+        <description>How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?</description>
+        <googleplay:description>How do we keep track of requirements? We talk about user stories, test cases and more. How can we know that we have completed a particular feature?</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<h2 id="links">Links</h2>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/requirements.mp3"  type="audio/mpeg" /><itunes:duration>52:56</itunes:duration></item>
         <item>
           <title>Delivery</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[How do we deliver software? We talk about git branching strategies, as well as automated and non-automated testing and deployment.]></itunes:summary>
-          <description>&lt;![CDATA[How do we deliver software? We talk about git branching strategies, as well as automated and non-automated testing and deployment.]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/delivery.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/delivery.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/delivery/</link>
-          <pubDate>Sun, 20 May 2018 12:00:00 -0400 </pubDate><itunes:duration>53:3</itunes:duration></item>
+          <pubDate>Sun, 20 May 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/delivery.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>How do we deliver software? We talk about git branching strategies, as well as automated and non-automated testing and deployment.</itunes:summary>
+        <description>How do we deliver software? We talk about git branching strategies, as well as automated and non-automated testing and deployment.</description>
+        <googleplay:description>How do we deliver software? We talk about git branching strategies, as well as automated and non-automated testing and deployment.</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<ul>
+<li>Definition of delivery: &ldquo;<em>Putting software where someone can use it.</em>&ldquo;</li>
+<li>Branch from develop, or branch from master?</li>
+<li>Why not just commit to master?</li>
+<li>Don&rsquo;t deploy a development environment.</li>
+<li>qa, test and uat are bad branch names.</li>
+<li>You should automate the deployment of PR branches.</li>
+<li>Understand a feature before start it.</li>
+<li>Software is bad.</li>
+<li>Developers should be manually testing during code review.</li>
+</ul>
+
+<h2 id="links">Links</h2>
+
+<ul>
+<li><a href="http://nvie.com/posts/a-successful-git-branching-model/">Git Flow</a></li>
+<li><a href="https://guides.github.com/introduction/flow/">GitHub Flow</a></li>
+<li><a href="https://www.heroku.com/flow">Heroku Flow</a></li>
+<li><a href="https://devcenter.heroku.com/articles/github-integration-review-apps">Heroku Review Apps</a></li>
+</ul>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/delivery.mp3"  type="audio/mpeg" /><itunes:duration>53:3</itunes:duration></item>
         <item>
           <title>Learning New Things</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?]></itunes:summary>
-          <description>&lt;![CDATA[In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/learn-new-things.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/learn-new-things.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/learning-new-things/</link>
-          <pubDate>Fri, 30 Mar 2018 12:00:00 -0400 </pubDate><itunes:duration>49:55</itunes:duration></item>
+          <pubDate>Fri, 30 Mar 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/learn-new-things.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?</itunes:summary>
+        <description>In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?</description>
+        <googleplay:description>In this episode we talk about learning new things. We discuss what got us interested in software in the first place, and how those original motivations still color how we approach learning. Should we learn new things just because we read about them on Hacker News? Should we dive deep and become an expert in a field, or is it just more fun to do new and different things?</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<h2 id="links">Links</h2>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/learn-new-things.mp3"  type="audio/mpeg" /><itunes:duration>49:55</itunes:duration></item>
         <item>
           <title>Monorepo</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?]></itunes:summary>
-          <description>&lt;![CDATA[Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/monorepo.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/monorepo.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/monorepo/</link>
-          <pubDate>Thu, 01 Mar 2018 12:00:00 -0400 </pubDate><itunes:duration>37:54</itunes:duration></item>
+          <pubDate>Thu, 01 Mar 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/monorepo.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?</itunes:summary>
+        <description>Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?</description>
+        <googleplay:description>Should your company put all of your code in one repository? What are the advantages and disadvantages of one vs. many source code repositories?</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<h2 id="links">Links</h2>
+
+<ul>
+<li><a href="https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext">Google&rsquo;s Monorepo</a></li>
+<li><a href="https://devcenter.heroku.com/articles/github-integration-review-apps">Heroku Review Apps</a></li>
+</ul>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/monorepo.mp3"  type="audio/mpeg" /><itunes:duration>37:54</itunes:duration></item>
         <item>
           <title>Code Review</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></itunes:summary>
-          <description>&lt;![CDATA[In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/code-review.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/code-review.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/code-review/</link>
-          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>36:13</itunes:duration></item>
+          <pubDate>Sat, 20 Jan 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/code-review.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.</itunes:summary>
+        <description>In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.</description>
+        <googleplay:description>In this episode, we talk about version control systems, pull requests, asynchronous work, automated checks, and accepting criticism. We also cover all possible parts of code review - early pull requests, pre-review comments, diff review, and manual testing.</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<h2 id="links">Links</h2>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/code-review.mp3"  type="audio/mpeg" /><itunes:duration>36:13</itunes:duration></item>
         <item>
           <title>Code Comments</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?]></itunes:summary>
-          <description>&lt;![CDATA[How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/code-comments.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/code-comments.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/code-comments/</link>
-          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>54:01</itunes:duration></item>
+          <pubDate>Fri, 19 Jan 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/code-comments.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?</itunes:summary>
+        <description>How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?</description>
+        <googleplay:description>How often should you leave code comments? Is it necessarily a failure to express yourself clearly in the code? Are code comments the best way to communicate with your team? Are your comments helpful, or just cathartic?</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<ul>
+<li>Definition of comments: &ldquo;<em>Metadata in source code that describe what code fails to communicate. Some languages and frameworks opt to use the mechanism of comments as formal documentation for code, but these two concepts should be separated.</em>&ldquo;</li>
+<li>Strive to make code self-documenting</li>
+<li>Formal Documentation vs. Code Comments</li>
+<li>Using tests to document your code</li>
+<li>Considering strong types as a type of documentation</li>
+<li>Docstring Tests</li>
+<li>The value of documenting types</li>
+<li>Worthless comments should be avoided</li>
+<li>Don&rsquo;t use comments to &ldquo;vent&rdquo; your emotions</li>
+</ul>
+
+<h2 id="links">Links</h2>
+
+<ul>
+<li><a href="https://docs.python.org/3.6/library/doctest.html">Python doctest</a></li>
+<li><a href="https://github.com/Ross-Hunter/jsonapi_expectations">JSON API Expectations</a> Semantic expectation helpers for JSON API testing using RSpec and Airborne.</li>
+</ul>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/code-comments.mp3"  type="audio/mpeg" /><itunes:duration>54:01</itunes:duration></item>
         <item>
           <title>YAGNI</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></itunes:summary>
-          <description>&lt;![CDATA[Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/yagni.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/yagni.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/yagni/</link>
-          <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>1:00:54</itunes:duration></item>
+          <pubDate>Thu, 18 Jan 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/yagni.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.</itunes:summary>
+        <description>Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.</description>
+        <googleplay:description>Are you building custom software? Are you adding extra features to work tool? Maybe You Arent Gonna Need It. In this episode we debate using off the shelf software vs. building your own. Is your company actually selling software? What is your business model? We also discuss unnecessary complexity in software and the impact this can have on quality.</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<h2 id="links">Links</h2>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/yagni.mp3"  type="audio/mpeg" /><itunes:duration>1:00:54</itunes:duration></item>
         <item>
           <title>Points</title>
-          <itunes:author> </itunes:author>
-          <itunes:summary>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></itunes:summary>
-          <description>&lt;![CDATA[What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.]></description>
-          <enclosure url="https://thenewbestpractices.com/episodes/points.mp3"  type="audio/mpeg" />
-          <guid>https://thenewbestpractices.com/episodes/points.mp3</guid>
           <link>https://thenewbestpractices.com/episodes/points/</link>
-          <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate><itunes:duration>27:54</itunes:duration></item></channel>
+          <pubDate>Wed, 17 Jan 2018 12:00:00 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://thenewbestpractices.com/episodes/points.mp3</guid>
+          <itunes:author>The New Best Practices</itunes:author>
+          
+        <itunes:summary>What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.</itunes:summary>
+        <description>What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.</description>
+        <googleplay:description>What are points in Software Developement? Join our hosts as we discuss how points can both useful and harmful when developing. In this episode we cover what points are, their relationship to velocity and how they help with estimates.</googleplay:description>
+        <content:encoded><![CDATA[
+
+<h1 id="nbsp">&nbsp;</h1>
+
+<h2 id="outline">Outline</h2>
+
+<ul>
+<li>Software development is not a &ldquo;game&rdquo;, i.e. you aren&rsquo;t aiming to get more points</li>
+<li>Points give you a reference for how your people, process &amp; technology are working together</li>
+<li>Velocity therefore is a function with these inputs</li>
+<li>Estimation is possible through a &ldquo;Stable Velocity&rdquo;</li>
+<li>Estimates aren&rsquo;t meant to be used to hide behind</li>
+<li>Fixed estimates aren&rsquo;t really possible as the number of variables in a project consistently change</li>
+<li>Developers need to deteremine their lifestyle. Maybe using points is not the right thing for your team</li>
+</ul>
+
+<h2 id="links">Links</h2>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/points.mp3"  type="audio/mpeg" /><itunes:duration>27:54</itunes:duration></item></channel>
 </rss>
