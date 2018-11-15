@@ -6,10 +6,19 @@
     <description>Recent content on The New Best Practices</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Aug 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://thenewbestpractices.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning &amp; Teaching Git</title>
+      <link>https://thenewbestpractices.com/episodes/learning-teaching-git/</link>
+      <pubDate>Thu, 15 Nov 2018 12:00:00 -0400</pubDate>
+      
+      <guid>https://thenewbestpractices.com/episodes/learning-teaching-git/</guid>
+      <description> &amp;nbsp; Links  Git The correct choice for version control GitHub The correct choice for hosting your source code Forking Important for contributing to open source, but not usually for day-to-day work Hacktoberfest Initiative to support new open source contributors GitHub Desktop An OK Git GUI Sublime Merge An OK Git GUI Commit Message Standards Improves the quality of your Git history Ross&amp;rsquo; Dotfiles Some good configs in here Jace&amp;rsquo;s Dotfiles Some really good configs in here Pull w/ Rebase + Autostash A brief explanation of our recommended git pull configuration  </description>
+    </item>
     
     <item>
       <title>Requirements</title>

@@ -12,7 +12,7 @@
     <title>The New Best Practices</title>
     <atom:link href="https://thenewbestpractices.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://thenewbestpractices.com</link>
-    <lastBuildDate>Thu, 30 Aug 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 12:00:00 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>en-us</language>
@@ -29,6 +29,15 @@
     <itunes:image href="https://thenewbestpractices.com/images/new.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category>
+        <item>
+          <title>Learning &amp; Teaching Git</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>&lt;![CDATA[Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.]></itunes:summary>
+          <description>&lt;![CDATA[Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.]></description>
+          <enclosure url="https://thenewbestpractices.com/episodes/learning-teach-git.mp3"  type="audio/mpeg" />
+          <guid>https://thenewbestpractices.com/episodes/learning-teach-git.mp3</guid>
+          <link>https://thenewbestpractices.com/episodes/learning-teaching-git/</link>
+          <pubDate>Thu, 15 Nov 2018 12:00:00 -0400 </pubDate><itunes:duration>37:46</itunes:duration></item>
         <item>
           <title>Requirements</title>
           <itunes:author> </itunes:author>
