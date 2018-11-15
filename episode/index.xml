@@ -46,7 +46,7 @@
           <link>https://thenewbestpractices.com/episodes/learning-teaching-git/</link>
           <pubDate>Thu, 15 Nov 2018 12:00:00 -0400 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://thenewbestpractices.com/episodes/learning-teach-git.mp3</guid>
+          <guid>https://thenewbestpractices.com/episodes/learning-teaching-git.mp3</guid>
           <itunes:author>The New Best Practices</itunes:author>
           
         <itunes:summary>Git is essential to our work as software developers, but it can be a tough technology to interact with. In this episode we discuss things that are good to know, and good to teach our team, so that we can all play happily together in version-control wonderland.</itunes:summary>
@@ -70,7 +70,7 @@
 <li><a href="https://github.com/jacebrowning/dotfiles">Jace&rsquo;s Dotfiles</a> Some <em>really</em> good configs in here</li>
 <li><a href="https://cscheng.info/2017/01/26/git-tip-autostash-with-git-pull-rebase.html">Pull w/ Rebase + Autostash</a> A brief explanation of our recommended <code>git pull</code> configuration</li>
 </ul>
-]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/learning-teach-git.mp3"  type="audio/mpeg" /><itunes:duration>37:46</itunes:duration></item>
+]]></content:encoded><enclosure url="https://thenewbestpractices.com/episodes/learning-teaching-git.mp3"  type="audio/mpeg" /><itunes:duration>37:46</itunes:duration></item>
         <item>
           <title>Requirements</title>
           <link>https://thenewbestpractices.com/episodes/requirements/</link>
