@@ -31,7 +31,7 @@ disqusShortname = "the-new-best-practices"
   description = "The New Best Practices is a podcast about the process of creating software."
   media_prefix = "https://thenewbestpractices.com"
   [params.feed]
-    feed_copyright = "Copyright 2018 Ross Hunter"
+    feed_copyright = "Copyright © 2019, Ross Hunter"
     itunes_subtitle = "Really Good Podcast"
     itunes_author = "The New Best Practices"
     itunes_summary = "The New Best Practices is a podcast about the process of creating software."
